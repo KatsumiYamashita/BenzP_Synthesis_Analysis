@@ -1,0 +1,10 @@
+# 仮想環境
+__pycache__
+env
+
+# フォルダ
+reference
+MFA_Introduction-main
+
+# ファイル
+chatGPT.txt
